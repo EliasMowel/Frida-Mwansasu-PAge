@@ -87,7 +87,7 @@ The current site contains approved structure with placeholder professional detai
 4. Replace the LinkedIn and professional profile links with the client's real URLs.
 5. Confirm the legal title, location, admission details, and practice areas with the client.
 6. Update the title and description in `index.html` if the client's final professional positioning changes.
-7. Replace the footer year if the site is launched in a different year.
+7. Update the footer year when the site is launched in a different year.
 
 ## Publishing
 
